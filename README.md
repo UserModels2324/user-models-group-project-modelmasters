@@ -1,8 +1,3 @@
-ModelMasters members:
-- Bernard
-- Thies
-- Yara Bikowski
-
 # User Models 2021/2022
 
 Materials for adaptive fact learning projects in the User Models (21/22) course.
